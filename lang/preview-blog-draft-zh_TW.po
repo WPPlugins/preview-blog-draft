@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Preview Blog Draft\n"
+"POT-Creation-Date: 2014-03-05 20:20+0800\n"
+"PO-Revision-Date: 2014-03-05 20:20+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:3
+msgid "Coming Soon!"
+msgstr "盡請期待！"
+
+#: options.php:11 options.php:36
+msgid "Preview Blog Draft Options Page"
+msgstr "Preview Blog Draft 設定頁面"
+
+#: options.php:11
+msgid "Preview Blog Draft"
+msgstr "Preview Blog Draft"
+
+#: options.php:39
+msgid "General Options"
+msgstr "一般設定"
+
+#: options.php:40
+#, php-format
+msgid "You can use %s with this plugin too."
+msgstr "你也可以配合 %s 來使用這個外掛！"
+
+#: options.php:43
+msgid "Words that you want to show in draft post: "
+msgstr "草稿文章將顯示出的文字："
+
+#: options.php:49
+msgid "Status of post you want to show the message for: "
+msgstr "顯示「盡請期待」的文章的文章狀態："
+
+#: options.php:51
+msgid "Publish Post"
+msgstr "已發表文章"
+
+#: options.php:51
+msgid "Draft"
+msgstr "草稿"
+
+#: options.php:51
+msgid "Future Post"
+msgstr "即將發表文章"
+
+#: options.php:51
+msgid "Private Post"
+msgstr "私密文章"
+
+#: preview-blog-draft.php:48
+msgid "Settings"
+msgstr "設定"
